@@ -7,8 +7,8 @@ public class lerFrutas {
     public static void main(String[] args) {
 
 
-    String frutas1;
-    String frutas2;
+    String frutas1, frutas2;
+
     frutas1 = JOptionPane.showInputDialog("Digite o nome da fruta");
     frutas2 = JOptionPane.showInputDialog("Digite o nome da fruta");
 
